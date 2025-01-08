@@ -7,7 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        green: '#00FF00', // Replace with your desired green color
+        green: {
+          500: '#22c55e'
+        }, // Replace with your desired green color
       },
     },
   },
