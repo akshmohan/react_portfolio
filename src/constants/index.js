@@ -11,7 +11,7 @@ export const EXPERIENCES = [
   {
     year: "September 2023 - Present",
     role: "Flutter Developer",
-    company: "Google Inc.",
+    company: "Kawika Technologies Pvt.Ltd.",
     description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
