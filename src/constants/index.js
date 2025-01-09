@@ -18,7 +18,25 @@ export const EXPERIENCES = [
     year: "September 2023 - Present",
     role: "Software Engineer",
     company: "Kawika Technologies Pvt.Ltd.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: `•	Built and developed projects from scratch, including both mobile and web applications, and worked on enhancing existing products.
+
+	•	Contributed to multiple full-stack web development projects, expanding my expertise beyond mobile development by mastering backend technologies and web frameworks.
+
+	•	Led and participated in team efforts, collaborating with cross-functional teams to deliver high-quality projects within deadlines.
+
+	•	Integrated payment gateways into applications, providing secure and seamless transaction systems for users.
+
+	•	Implemented SMS integration for real-time notifications, improving communication and user experience.
+
+	•	Deployed multiple applications to Play Store and App Store, ensuring seamless installation and user access across platforms.
+  
+	•	Actively participated in client meetings, gathering feedback, refining project requirements, and ensuring successful project closure.
+
+	•	Applied SCRUM methodology for effective project management and timely delivery, with regular sprint reviews and retrospectives to optimize processes.
+
+	•	Delivered high-quality work, adhering to best practices in coding, testing, and deployment, resulting in minimal post-launch issues.
+  
+	•	Identified and fixed bugs across various applications, solving a variety of complex technical problems and ensuring smooth user experiences.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
 
@@ -29,70 +47,70 @@ export const PROJECTS = [
     title: "Human Resource Management App",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Developed a human resource management app enabling employees to swipe in/out, track work hours, and manage attendance efficiently.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
     title: "Loan Booking App",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "Worked on a loan booking app for Kerala Financial Corporation, a government agency, to streamline loan applications, track approvals, and enhance the overall loan management process.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
   },
   {
     title: "Food Delivery App",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "Contributed to enhancing and maintaining a food delivery app, owned by the company, enabling customers to place orders seamlessly while streamlining order management and delivery operations.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
   {
     title: "Room Booking App ",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Managed a booking app for a Dubai-based club, enabling members to book rooms and order food and drinks, while actively participating in client meetings to finalize and deliver the project successfully.”",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
   {
     title: "E-Commerce App",
     image: project5,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Played a key role in finalizing and delivering a Dubai-based e-commerce app, ensuring a polished and functional product for launch.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
     title: "Concession Booking App",
     image: project6,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Contributed in the completiion of a bus ticket concession booking app for students, organized by KSRTC, with a significant contribution in implementing a payment gateway for seamless financial transactions.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
     title: "Traffic Violation Recognition App",
     image: project7,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Worked on completing an automated number plate tecognition app for the Kerala Police, enabling automatic notifications for traffic violations detected by street cameras, along with suspect and violation details.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
     title: "Task Management App",
     image: project8,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Built a full stack mobile application for creating and organising tasks, built for both online and offline functionality(Personal Project)",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
     title: "AI powered Chat App",
     image: project9,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Developed a simple chat app built with Flutter for the frontend and Google Gemini's API for the backend(Personal Project)",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
     title: "Real Estate Website",
     image: project10,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Developed a full stack web application using the MERN Stack, for users to see and list real estate properties for sale or rent(Personal Project)",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
 ];
