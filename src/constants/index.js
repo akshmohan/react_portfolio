@@ -18,7 +18,10 @@ export const EXPERIENCES = [
     year: "September 2023 - Present",
     role: "Software Engineer",
     company: "Kawika Technologies Pvt.Ltd.",
-    description: `•	Built and developed projects from scratch, including both mobile and web applications, and worked on enhancing existing products.
+    description: `
+	•	Built and developed mobile and web applications from scratch, delivering end-to-end solutions tailored to client requirements.
+  
+	•	Worked on enhancing existing products by adding new features, improving performance, and addressing user feedback.
 
 	•	Contributed to multiple full-stack web development projects, expanding my expertise beyond mobile development by mastering backend technologies and web frameworks.
 
@@ -35,7 +38,7 @@ export const EXPERIENCES = [
 	•	Applied SCRUM methodology for effective project management and timely delivery, with regular sprint reviews and retrospectives to optimize processes.
 
 	•	Delivered high-quality work, adhering to best practices in coding, testing, and deployment, resulting in minimal post-launch issues.
-  
+
 	•	Identified and fixed bugs across various applications, solving a variety of complex technical problems and ensuring smooth user experiences.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
