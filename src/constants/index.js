@@ -71,7 +71,7 @@ export const PROJECTS = [
     title: "Room Booking App ",
     image: project4,
     description:
-      "Managed a booking app for a Dubai-based club, enabling members to book rooms and order food and drinks, while actively participating in client meetings to finalize and deliver the project successfully.”",
+      "Managed a booking app for a Dubai-based club, enabling members to book rooms and order food and drinks, while actively participating in client meetings to finalize and deliver the project successfully.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
   {
