@@ -7,3 +7,15 @@
 :root {
     font-family: "Inter", sans-serif;
 }
+
+.bullet-point {
+    position: relative;
+    padding-left: 1.5em; /* Adjust this value as needed */
+  }
+  
+  .bullet-point::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: inherit; /* Use the same color as the text */
+  }

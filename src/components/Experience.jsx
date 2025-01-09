@@ -40,7 +40,7 @@ const Experience = () => {
               {/* <p className="mb-4 text-neutral-400">{experience.description}</p> */}
               <div className="mb-4 text-neutral-400">
                 {experience.description.split('•').map((item, index) => (
-                  item.trim() && <p key={index} className="mb-2">• {item.trim()}</p>
+                  item.trim() && <p key={index} className="bullet-point mb-2">{item.trim()}</p>
                 ))}
               </div>
             </motion.div>
