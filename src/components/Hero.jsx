@@ -44,7 +44,7 @@ const Hero = () => {
                 initial={{x:100, opacity:0}}
                 animate={{x:0, opacity:1}}
                 transition={{duration:1, delay:1.2}}
-
+                className="rounded-lg"
                 src={profilepic} alt="Akshay Mohan" />
         </div>
      </div>
@@ -53,5 +53,6 @@ const Hero = () => {
     </div>
   )
 }
+
 
 export default Hero;
