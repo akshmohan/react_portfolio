@@ -29,7 +29,7 @@ const About = () => {
             viewport={{ once: false, amount: 0.2 }} 
             className="flex justify-center lg:justify-start"
           >
-            <p className="my-2 max-w-xl py-6 lg:mt-8">{ABOUT_TEXT}</p>
+            <p className="my-2 max-w-xl py-6 lg:mt-24">{ABOUT_TEXT}</p>
           </motion.div>
         </div>
       </div>
