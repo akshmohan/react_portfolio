@@ -92,7 +92,7 @@ export const PROJECTS = [
     title: "Traffic Violation Recognition App",
     image: project7,
     description:
-      "Worked on completing an automated number plate tecognition app for the Kerala Police, enabling automatic notifications for traffic violations detected by street cameras, along with suspect and violation details.",
+      "Worked on completing an automated number plate recognition app for the Kerala Police, enabling automatic notifications for traffic violations detected by street cameras, along with suspect and violation details.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
