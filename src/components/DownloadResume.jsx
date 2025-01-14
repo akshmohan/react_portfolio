@@ -1,6 +1,6 @@
 
 const DownloadResume = () => {
-    const resumeUrl = 'src/assets/resume/Resume.pdf';
+    const resumeUrl = 'public/resume/Resume.pdf';
   
     return (
       <div style={{ textAlign: 'center', marginTop: '20px' }}>
