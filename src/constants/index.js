@@ -15,7 +15,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "September 2023 - Present",
+    year: "March 2023 - Present",
     role: "Software Engineer",
     company: "Kawika Technologies Pvt.Ltd.",
     description: `
